@@ -31,21 +31,22 @@
 <br/>
 
   
-<a href="#"><img align="left" alt="Jose Luis Mejia Github Stats" src="https://github-readme-stats.vercel.app/api?username=mejialaguna&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=6A4DFF&icon_color=6A4DFF" height="400"/></a>
-<a href="#"><img align="right" alt="<mejia%20laguna Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mejialaguna&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=6A4DFF&icon_color=6A4DFF" height="197"/></a>
+<a href="#"><img align="left" alt="Jose Luis Mejia Github Stats" src="https://github-readme-stats.vercel.app/api?username=mejialaguna&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=6A4DFF&icon_color=6A4DFF" height="195"/></a>
+<a href="#"><img align="right" alt="<mejia%20laguna Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mejialaguna&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=6A4DFF&icon_color=6A4DFF" height="195"/></a>
 
-
+---
   <br/>
   <br/>
-  <img align="left" width=396 src="https://github-readme-stats.vercel.app/api/wakatime?username=mejialaguna&theme=react&border_color=61dafb&langs_count=13" alt=" wakatime" />
+  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mejialaguna&theme=Javascript-dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+<img align="left" width=396 src="https://github-readme-stats.vercel.app/api/wakatime?username=mejialaguna&theme=react&border_color=61dafb&langs_count=13" alt=" wakatime"/>
+
   <br/>
   <br/> 
   
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mejialaguna&theme=Javascript-dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-<br/>
-<br/> 
+
 
   
    <i ><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</i> 
