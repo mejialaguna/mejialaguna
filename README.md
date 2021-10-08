@@ -43,16 +43,16 @@
   <br/>
   </div>
    <br/>
-  <br/>
-
-   <i ><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</i> 
-
- 
+  <br/> 
   
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mejialaguna&theme=Javascript-dark&date_format=M%20j%5B%2C%20Y%5D))](https://git.io/streak-stats)
 
+<br/>
+<br/> 
+
   
+   <i ><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</i> 
   ---
   <br/>
   <br/>
