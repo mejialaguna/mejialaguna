@@ -46,7 +46,7 @@
 <br/>
 
 
-<table align="center"><tr><td valign="top" >
+<table align="center"><tr><td valign="top" width="50%">
 <h3 align="center">Programming Languages</h3>
 <p align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" > <img src="https://img.icons8.com/color/60/000000/javascript--v2.png"/>
 </a>  </p>
