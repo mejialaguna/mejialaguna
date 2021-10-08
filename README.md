@@ -1,30 +1,9 @@
-    var developements = {
+    const developements = {
       "Web Development" : {
-          "Languages" : [ "HTML" , "CSS", "JavaScript", "TypeScript" ] ,
+          "Languages" : [ "HTML" , "CSS", "JavaScript",  ] ,
           "Frameworks" : [ "Node.js", "Express.js", "MongoDB", 
-                          "MySQL", "React", "Angular", "Ejs", "Bootstrap" ]
-      }
-      "Native App Development" : {
-          "Languages" : ["HTML", "XML", "JAVA", "TypeScript", "SCSS" ] ,
-          "Frameworks & Tools" : ["Angular", "Ionic",  "Gradle", "Android Studio", "Google APIs"]
-      }
-      "Desktop App Development" : {
-          "Languages" : ["Python"] ,
-          "Libraries" : ["Tkinter"]
-      }
-      "Machine Learning" : {
-          "Languages" : ["Python"] ,
-          "Libraries" : ["Numpy", "Pandas", "Matplotlib", "Sklearn", "OpenCV" ]
-      }
-      "Ethical Hacking" : {
-          "Languages" : ["Python"] ,
-          "System" : ["Kali Linux"]
-      }
-      "Game Development" : {
-          "Languages" : ["C++","Python"],
-          "Libraries" : ["UE libraries", "Pygame"],
-          "Editors" : ["Unreal Engine"]
-      }
+                          "MySQL", "React", "Bootstrap" ]
+      }      
     }
 
 <br/>
@@ -69,7 +48,7 @@
 
 
 <img align="left" style="margin-top: -2.5%" src="https://img.icons8.com/color/70/000000/nodejs.png"/>
-<img align="left" src="profile-icons/vscode.png" style="padding: 1.5%" />
+
 <img align="left" src="https://img.icons8.com/color/60/000000/mysql-logo.png" style="margin-top: -3%"/>
 <img align="left" src="profile-icons/git.png" style="padding: 1%" /></a>
 <img align="left" src="profile-icons/windows.png" style="padding: 1%" /></a>
@@ -83,15 +62,20 @@
 <img height="30" src="profile-icons/materialize.jpg" style="max-width:100%;">
 <img height="30" src="profile-icons/mongodb.jpeg" style="max-width:100%;">
 
-**Cloud & Open Source**  
-<img src="https://img.icons8.com/color/40/000000/github--v3.png"/>
-<img src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg" height="45px"   align="left"/> 
-</br>
-tools
-</br>
-<img height="40" src="profile-icons/insomnia.png" style="max-width:100%;">
-
-
+<div>
+    <div>
+    <h3 align="center">Cloud & Open Source</h3> 
+    </br>
+    <img src="https://img.icons8.com/color/40/000000/github--v3.png"/>
+    <img src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg" height="45px"   align="left"/> 
+    </div>
+    <div align="right">
+    <h3 align="center">tools</h3>
+    </br>
+    <img src="profile-icons/vscode.png" style="padding: 1.5%" />
+    <img height="40" src="profile-icons/insomnia.png" style="max-width:100%;">
+    </div>
+</div>
 </br>
 </br>
 
