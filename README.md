@@ -37,8 +37,8 @@
 
 <br/>
 <br/>
-<a align="right" href="(https://git.io/streak-stats" title="Go to Source">
-      <img align="right" width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=mejialaguna&theme=Javascript-dark&date_format=M%20j%5B%2C%20Y%5D"/>
+<a align="left" href="(https://git.io/streak-stats" title="Go to Source">
+      <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=mejialaguna&theme=Javascript-dark&date_format=M%20j%5B%2C%20Y%5D"/>
  </a>
 <br>
 <img align="left" width=396 src="https://github-readme-stats.vercel.app/api/wakatime?username=mejialaguna&theme=react&border_color=61dafb&langs_count=13" alt=" wakatime"/>
