@@ -31,8 +31,8 @@
 <br/>
 
   
-<a href="#"><img align="left" alt="Jose Luis Mejia Github Stats" src="https://github-readme-stats.vercel.app/api?username=mejialaguna&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=6A4DFF&icon_color=6A4DFF" height="190"/></a>
-<a href="#"><img align="right" alt="<mejia%20laguna Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mejialaguna&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=6A4DFF&icon_color=6A4DFF" height="190"/></a>
+<a href="#"><img align="left" alt="Jose Luis Mejia Github Stats" src="https://github-readme-stats.vercel.app/api?username=mejialaguna&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=6A4DFF&icon_color=6A4DFF" height="198"/></a>
+<a href="#"><img align="right" alt="<mejia%20laguna Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mejialaguna&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=6A4DFF&icon_color=6A4DFF" height="198"/></a>
 
   <br/>
   <br/>
@@ -41,7 +41,7 @@
   <br/> 
   
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mejialaguna&theme=Javascript-dark&date_format=M%20j%5B%2C%20Y%5D))](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mejialaguna&theme=Javascript-dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 <br/>
 <br/> 
@@ -52,10 +52,10 @@
   <br/>
   <br/>
 
-  <div>
-    <a href="#"><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mejialaguna&custom_title=mejia%20laguna%20Contribution%20Graph&bg_color=FFFFF&color=6A4DFF&line=88CC00&point=6A4DFF&hide_border=true" /></a>
-  <div> 
-</div>
+
+<a href="#"><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mejialaguna&custom_title=mejia%20laguna%20Contribution%20Graph&bg_color=FFFFF&color=6A4DFF&line=88CC00&point=6A4DFF&hide_border=true" /></a>
+  
+
 
 <br/>
 
