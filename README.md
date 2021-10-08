@@ -76,6 +76,9 @@
 <p align="center"> <a href="https://www.mongodb.com/" > <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
 </a><img align="center" src="https://img.icons8.com/color/55/000000/mysql-logo.png" style="margin-top: 3.5%"/>
  </p>
+  
+</td></tr></table>
+
 
 
 </br>
