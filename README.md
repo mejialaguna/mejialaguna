@@ -47,12 +47,12 @@
 <br/>
 <br/> 
 
-<!-- <div>
+<div align="center">
 <i ><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</i> 
 </div>
 ---
 <br/>
-<br/> -->
+<br/>
 
 
 <a href="#"><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mejialaguna&custom_title=mejia%20laguna%20Contribution%20Graph&bg_color=FFFFF&color=6A4DFF&line=88CC00&point=6A4DFF&hide_border=true" /></a>
