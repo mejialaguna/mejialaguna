@@ -72,7 +72,9 @@
     <a href="https://expressjs.com" > <img src="https://avatars.githubusercontent.com/u/5658226?s=200&v=4" alt="express" width="40" height="40"/></a>
     <img width="40" height="40" style="margin-left: 4%" src="profile-icons/npm.jpg">
   </div>
-  <img style="margin: -10% 10% 0 30%" src="https://img.icons8.com/color/90/000000/nodejs.png"/>
+   <div align="center">
+      <img src="https://img.icons8.com/color/90/000000/nodejs.png"/>
+    </div>   
   </p>
 
 <h3 align="center">Database</h3>
