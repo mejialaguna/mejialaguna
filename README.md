@@ -1,7 +1,6 @@
-    <h1 align="center"> Lets connect</h1>
+<h1 align="center"> Lets connect</h1>
 </br>
 </br>
-
 
 <div align="center">   
 <a href="mailto:mejialaguna21@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-white?style=for-the-badge&logo=gmail&logoColor=red"></a>
@@ -11,6 +10,12 @@
 <a href="https://github.com/mejialaguna" target="_blank"><img src="https://img.shields.io/badge/Heroku-purple?style=for-the-badge&logo=Heroku&logoColor=white"></a>
 
 </div>
+
+</br>
+</br>
+</br>
+</br>
+
     
     const developements = {
       "Web Development" : {
