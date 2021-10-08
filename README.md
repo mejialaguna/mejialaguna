@@ -69,11 +69,11 @@
     <img src="https://img.icons8.com/color/40/000000/github--v3.png"/>
     <img src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg" height="45px"   align="left"/> 
     </div>
-    <div align="center">
+    <div align="center" style="margin-top: -3%">
     <h3>tools</h3>
     </br>
     <img src="profile-icons/vscode.png" style="padding: 1.5%" />
-    <img height="40" src="profile-icons/insomnia.png" style="max-width:100%;">
+    <img height="40" src="profile-icons/insomnia.png">
     </div>
 </div>
 </br>
