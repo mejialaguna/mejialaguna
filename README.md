@@ -46,36 +46,39 @@
 <br/>
 
 
+<table><tr><td valign="top" width="33%">
+<h3 align="center">Programming Languages</h3>
+<p align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" > <img src="https://img.icons8.com/color/60/000000/javascript--v2.png"/>
+</a>  </p>
+  
+<h3 align="center">Editor/Testers</h3>
+<p align="center">  <a href="https://code.visualstudio.com/" > <img src="https://i.ibb.co/vBw3R3Q/Visual-Studio-Code.png" width="40" height="40"/> </a><img height="40" src="profile-icons/insomnia.png">
+</p>
+  
+</td><td valign="top" width="33%">
+<h3 align="center">Frontend Development</h3>
+ </p>
+<p align="center"> <a href="https://www.w3schools.com/css/" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://reactjs.org/" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> <a href="https://jquery.com/" > <img src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" width="40" height="40"/> </a> </a> <img height="30" src="profile-icons/materialize.jpg"> <a href="https://getbootstrap.com" > <img style="margin-top: 2.5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
 
-<img align="left" style="margin-top: -2.5%" src="https://img.icons8.com/color/70/000000/nodejs.png"/>
+<br>  
+<h3 align="center">Cloud & Open Source</h3>
+<p align="center">  <img src="https://img.icons8.com/color/40/000000/github--v3.png" style="margin-top: 3.5%" />
+    <img src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg" height="55px" align="left"/></p>
 
-<img align="left" src="https://img.icons8.com/color/60/000000/mysql-logo.png" style="margin-top: -3%"/>
-<img align="left" src="profile-icons/git.png" style="padding: 1%" /></a>
-<img align="left" src="profile-icons/windows.png" style="padding: 1%" /></a>
-<img align="left" src="https://img.icons8.com/color/42/000000/css3.png"/>
-<img src="https://img.icons8.com/color/42/000000/html-5--v1.png"/>
-<img src="https://img.icons8.com/color/48/000000/javascript--v2.png"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-<img src="https://img.icons8.com/ultraviolet/40/000000/react--v2.png"/>  
-<img height="30" src="profile-icons/npm.jpg" style="max-width:100%;">
-<img height="70" src="profile-icons/jquery.png" style="margin-bottom: -4%">
-<img height="30" src="profile-icons/materialize.jpg" style="max-width:100%;">
-<img height="30" src="profile-icons/mongodb.jpeg" style="max-width:100%;">
+</td><td valign="top" width="33%">
+<h3 align="center">Backend Development</h3>
+<p align="center"> <img align="left" width="90" height="90" style="margin-top: -9%"  src="https://img.icons8.com/color/70/000000/nodejs.png" style="margin-top:55.5%"/>
+ <a href="https://expressjs.com" > <img src="https://avatars.githubusercontent.com/u/5658226?s=200&v=4" alt="express" width="40" height="40"/></a><img width="40" height="40" style="margin-left: 4%" src="profile-icons/npm.jpg">
+ </p>
 
-<div>
-    <div>
-    <h3>Cloud & Open Source</h3> 
-    </br>
-    <img src="https://img.icons8.com/color/40/000000/github--v3.png"/>
-    <img src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg" height="45px"   align="left"/> 
-    </div>
-    <div align="center" style="margin-top: -3%">
-    <h3>tools</h3>
-    </br>
-    <img src="profile-icons/vscode.png" style="padding: 1.5%" />
-    <img height="40" src="profile-icons/insomnia.png">
-    </div>
-</div>
+<h3 align="center">Database</h3>
+<p align="center"> <a href="https://www.mongodb.com/" > <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
+</a><img align="center" src="https://img.icons8.com/color/55/000000/mysql-logo.png" style="margin-top: 3.5%"/>
+ </p>
+  
+</td></tr></table>
+
+
 </br>
 </br>
 
