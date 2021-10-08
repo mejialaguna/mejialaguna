@@ -39,17 +39,18 @@
 <br/>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mejialaguna&theme=Javascript-dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+<br>
 <img align="left" width=396 src="https://github-readme-stats.vercel.app/api/wakatime?username=mejialaguna&theme=react&border_color=61dafb&langs_count=13" alt=" wakatime"/>
 
 <br/>
 <br/> 
 
-<div>
+<!-- <div>
 <i ><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</i> 
 </div>
 ---
 <br/>
-<br/>
+<br/> -->
 
 
 <a href="#"><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mejialaguna&custom_title=mejia%20laguna%20Contribution%20Graph&bg_color=FFFFF&color=6A4DFF&line=88CC00&point=6A4DFF&hide_border=true" /></a>
