@@ -67,14 +67,14 @@
 
 </td><td valign="top" width="33%">
 <h3 align="center">Backend Development</h3>
-<div style="margin-top: -5%" >
-    <p align="center"> 
+ <div style="margin-top: -5%" >
+    <p align="left"> 
     <a href="https://expressjs.com" > <img src="https://avatars.githubusercontent.com/u/5658226?s=200&v=4" alt="express" width="40" height="40"/></a>
     <img width="40" height="40" style="margin-left: 4%" src="profile-icons/npm.jpg">
   </div>
-   <div align="center" style="margin-top: -15%">
+    <div align="right" style="margin-top: -35%">
       <img src="https://img.icons8.com/color/90/000000/nodejs.png"/>
-    </div>   
+    </div>  
   </p>
 
 <h3 align="center">Database</h3>
