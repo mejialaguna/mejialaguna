@@ -67,16 +67,15 @@
 
 </td><td valign="top" width="33%">
 <h3 align="center">Backend Development</h3>
-<p align="center"> <img align="left" width="90" height="90" style="margin-top: -9%"  src="https://img.icons8.com/color/70/000000/nodejs.png" style="margin-top:55.5%"/>
- <a href="https://expressjs.com" > <img src="https://avatars.githubusercontent.com/u/5658226?s=200&v=4" alt="express" width="40" height="40"/></a><img width="40" height="40" style="margin-left: 4%" src="profile-icons/npm.jpg">
+<p align="center"> <img align="left"  style="margin-top: -9%"  src="https://img.icons8.com/color/70/000000/nodejs.png" style="margin-top:55.5%"/>
+ <a href="https://expressjs.com" > <img src="https://avatars.githubusercontent.com/u/5658226?s=200&v=4" alt="express" width="40" height="40"/></a>
+ <img width="40" height="40" style="margin-left: 4%" src="profile-icons/npm.jpg">
  </p>
 
 <h3 align="center">Database</h3>
 <p align="center"> <a href="https://www.mongodb.com/" > <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
 </a><img align="center" src="https://img.icons8.com/color/55/000000/mysql-logo.png" style="margin-top: 3.5%"/>
  </p>
-  
-</td></tr></table>
 
 
 </br>
