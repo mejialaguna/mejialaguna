@@ -36,7 +36,7 @@
 <div>
     <div align="right>
         <a href="#"><img alt="Jose Luis Mejia Github Stats" src="https://github-readme-stats.vercel.app/api?username=mejialaguna&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=6A4DFF&icon_color=6A4DFF" height="160"/></a>
-        <a href="#"><img alt="<mejia%20laguna Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mejialaguna&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=6A4DFF&icon_color=6A4DFF" height="165"/></a>
+        <a href="#"><img alt="<mejia%20laguna Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mejialaguna&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=6A4DFF&icon_color=6A4DFF" height="160"/></a>
     </div>
     <br>
     <div align="left">
