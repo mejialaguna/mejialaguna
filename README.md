@@ -13,7 +13,7 @@
 <img src="https://img.shields.io/github/last-commit/mejialaguna/mejialaguna" >
 <a href="https://github.com/mejialaguna"><img src="https://img.shields.io/github/followers/mejialaguna?style=social" target="_blank" /></a>
     
- 
+    
 </div>
 
 </br>
@@ -25,8 +25,8 @@
     const developements = {
       "Web Development" : {
           "Languages" : [ "HTML" , "CSS", "JavaScript",  ] ,
-          "Frameworks" : [ "Node.js", "Express.js", "MongoDB", 
-                          "MySQL", "React", "Bootstrap" ]
+          "DataBases" : [ 'MongoDB', 'MySQL' ]
+          "Frameworks" : [ "Node.js", "Express.js", "React", "Google API", "M-UI" ,  "Bootstrap"  , "Semantic-UI" , "Materialize-CSS"]
       }      
     }
 
