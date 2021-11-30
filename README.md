@@ -26,7 +26,8 @@
       "Web Development" : {
           "Languages" : [ "HTML" , "CSS", "JavaScript",  ] ,
           "DataBases" : [ 'MongoDB', 'MySQL' ]
-          "Frameworks" : [ "Node.js", "Express.js", "React", "Google API", "M-UI" ,  "Bootstrap"  , "Semantic-UI" , "Materialize-CSS"]
+          "Frameworks" : [ "Node.js", "Express.js", "React", "Google API", "M-UI" ,  "Bootstrap"  ,
+                            "Semantic-UI" , "Materialize-CSS"]
       }      
     }
 
