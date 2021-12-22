@@ -82,33 +82,45 @@
   
 </td><td align="top" width="33%">
 <h3 align="center">Frontend Development</h3>
- </p>
-<p align="center"> <a href="https://www.w3schools.com/css/" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://reactjs.org/" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> <a href="https://jquery.com/" > <img src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" width="40" height="40"/> </a> </a> <img height="30" src="profile-icons/materialize.jpg"> <a href="https://getbootstrap.com" > <img style="margin-top: 2.5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
+ 
 
-<br>  
-<h3 align="center">Cloud & Open Source</h3>
-<p align="center">  <img src="https://img.icons8.com/color/40/000000/github--v3.png" style="margin-top: 3.5%" />
-    <img src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg" height="55px" align="left"/></p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="40" align="left"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="45" height="40" align="center"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="45" height="40" align="right"/> 
+
+    
+ <br/>
+ <br/>    
+  
+<img src="https://www.vectorlogo.zone/logos/jquery/jquery-horizontal.svg" alt="jQuery" width="55" height="40" align="left"/> 
+<img src="profile-icons/materialize.jpg" align="center" width="45" height="40"/> 
+<img style="margin-top: 2.5%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg" alt="bootstrap" width="45" height="40" align="right"/>
+
+    
+<br> 
+<br> 
+    
+<h3 align="center">Cloud & Open Source</h3>    
+    
+<img src="https://img.icons8.com/color/40/000000/github--v3.png" align="right" style="margin-top: 3.5%" />
+<img src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg" height="55px" align="left"/>
 
 </td><td valign="top" width="33%">
     
-<h3 align="center">Backend Development</h3>
- 
-<div>    
-   <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" align="left" alt="express" width="50" height="40"/>
+<h3 align="center">Backend Development</h3>  
+    
+<img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" align="left" alt="express" width="40" height="40"/>
+<img src="profile-icons/npm.jpg" align="center" width="40" height="40" style="margin-left: 4%"/>
+<img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg" align="right" width="70"  />
 
-  <img width="50" height="40" style="margin-left: 4%" src="profile-icons/npm.jpg" align="center" />
-
-  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg" align="right" width="85"  />
-</div>  
   
  <br/>
 
-<h3 align="center">Database</h3>
- <br/>
-<a href="https://www.mongodb.com/" align="left" > <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="55" height="55"/> 
-    <a href="#" align="center" > <img align="center" src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="mongodb" width="55" height="55"/>
-</a><img align="right" src="https://img.icons8.com/color/75/000000/mysql-logo.png" style="margin-top: 5%"/>
+<h3 align="center">Database</h3>    
+   
+ <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="45" height="55"/> 
+ <img align="center" src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="GrapgQL" width="45" height="55"/>
+ <img align="right" src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="MySQL" width="65" height="55"/>
 
 </td></tr></table>
 
