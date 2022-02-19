@@ -10,7 +10,7 @@
 <a href="https://github.com/mejialaguna" target="_blank"><img src="https://img.shields.io/badge/Heroku-purple?style=for-the-badge&logo=Heroku&logoColor=white"></a>
     
 <br/>
-<img src="https://img.shields.io/github/last-commit/mejialaguna/mejialaguna" >
+
 <a href="https://github.com/mejialaguna"><img src="https://img.shields.io/github/followers/mejialaguna?style=social" target="_blank" /></a>
     
     
