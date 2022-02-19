@@ -25,8 +25,8 @@
     const developements = {
       "Web Development" : {
           "Languages" : [ "HTML" , "CSS", "JavaScript",  ] ,
-          "DataBases" : [ 'MySQL', 'MongoDB', 'GraphQL' ]
-          "Frameworks" : [ "Node.js", "Express.js", "React", "Google API", "M-UI" ,  "Bootstrap"  ,
+          "DataBases" : [ 'MySQL', 'MongoDB', 'GraphQL' ,  ]
+          "Frameworks" : [ "Bootstrap" , "Jquery" , "Node.js", "Express.js", "NPM", "React", "Context-Api" , "Redux" , "Next.js", "Google API", "M-UI" , 
                             "Semantic-UI" , "Materialize-CSS"]
       }      
     }
