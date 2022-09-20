@@ -25,11 +25,14 @@
     
     const developements = {
       "Web Development" : {
-          "Languages" : [ "HTML" , "CSS", "JavaScript",  ] ,
-          "DataBases" : [ 'MySQL', 'MongoDB', 'GraphQL' ,  ]
-          "Frameworks" : [ "Bootstrap" , "Jquery" , "Node.js", "Express.js", "NPM", "React", "Context-Api" , 
-                                "Redux" , "Next.js", "Google API", "M-UI" , 
-                                         "Semantic-UI" , "Materialize-CSS"]
+          "Markup Language" : [ "HTML" ] ,
+          "Styles Sheets" : [ CSS | SCSS ] ,
+          "Styles Sheets Frameworks" : [ Bootstrap | Materialize | TailwindCSS | Material-UI | Semantic-UI ]   
+          "Scripting Language" : [ JavaScript| TypeScript ] 
+          "Frameworks" : [ Jquery | Express | React | React-Native | Next.js | stencil.js | Google API", ]
+          "Application Data-flow Architecture" : [ Redux | Context-api ]
+          "Runtime Environment" : [ Node ]
+          "DataBases" : [ MySQL | MongoDB| GraphQL ]
       }      
     }
 
