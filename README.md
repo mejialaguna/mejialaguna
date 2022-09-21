@@ -27,7 +27,7 @@
       "Web Development" : {
           "Markup Language" : [ "HTML" ] ,
           "Styles Sheets" : [ CSS | SCSS ] ,
-          "Styles Sheets Frameworks" : [ Bootstrap | Materialize | TailwindCSS | Material-UI | Semantic-UI ]   
+          "Styles Sheets Frameworks" : [ Bootstrap | Materialize | TailwindCSS | Material-UI | Semantic-UI |framer-motion ]   
           "Scripting Language" : [ JavaScript| TypeScript ] 
           "Frameworks" : [ Jquery | Express | React | React-Native | Next.js | stencil.js | Google API", ]
           "Application Data-flow Architecture" : [ Redux | Context-api ]
