@@ -28,7 +28,7 @@
           "Markup Language" : [ "HTML" ] ,
           "Styles Sheets" : [ CSS | SCSS ] ,
           "Styles Sheets Frameworks" : [ Bootstrap | Materialize | TailwindCSS | Material-UI | Semantic-UI |framer-motion ]   
-          "Scripting Language" : [ JavaScript| TypeScript ] 
+          "Scripting Language" : [ JavaScript | TypeScript ] 
           "Frameworks" : [ Jquery | Express | React | React-Native | Next.js | stencil.js | Google API", ]
           "Application Data-flow Architecture" : [ Redux | Context-api ]
           "Runtime Environment" : [ Node ]
@@ -78,8 +78,11 @@
 
 <table align="center"><tr><td valign="top" width="35%">
 <h3 align="center">Programming Languages</h3>
-<p align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" > <img src="https://img.icons8.com/color/60/000000/javascript--v2.png"/>
-</a>  </p>
+<p align="center">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" > <img src="https://img.icons8.com/color/60/000000/javascript--v2.png"/></a>
+<a href="https://www.typescriptlang.org/" > <img src="https://img.icons8.com/fluency/60/typescript--v1.png" alt="typescript--v1"/></a>
+</p>
+
   
 <h3 align="center">Editor/Testers</h3>
 <p align="center">  <a href="https://code.visualstudio.com/" > <img src="https://i.ibb.co/vBw3R3Q/Visual-Studio-Code.png" width="40" height="40"/> </a><img height="40" src="profile-icons/insomnia.png">
