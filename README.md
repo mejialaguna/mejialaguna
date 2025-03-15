@@ -25,14 +25,30 @@
     
     const developements = {
       "Web Development" : {
-          "Markup Language" : [ "HTML" ] ,
+         "Markup Language" : [ "HTML" ] ,
           "Styles Sheets" : [ CSS | SCSS ] ,
-          "Styles Sheets Frameworks" : [ Bootstrap | Materialize | TailwindCSS | Material-UI | Semantic-UI |framer-motion ]   
+          "Styles Sheets Frameworks" : [ Bootstrap | Materialize | TailwindCSS | Material-UI | Semantic-UI | framer-motion ]   
           "Scripting Language" : [ JavaScript | TypeScript ] 
           "Frameworks" : [ Jquery | Express | React | React-Native | Next.js | stencil.js | Google API", ]
-          "Application Data-flow Architecture" : [ Redux | Context-api ]
-          "Runtime Environment" : [ Node ]
-          "DataBases" : [ MySQL | MongoDB| GraphQL ]
+          "Application Data-flow Architecture" : [ Redux | Context-api | Zustand ]
+          "State Management Libraries": ["Redux Toolkit"],
+          "Runtime Environment": ["Node"],
+          "Databases": ["MySQL", "MongoDB", "GraphQL", "PostgreSQL", "Firebase"],
+          "Build Tools": ["Webpack", "Vite", "Parcel"],
+          "Package Managers": ["npm", "yarn", "pnpm"],
+          "Testing Frameworks": ["Jest", "Mocha", "Chai", "Vitest"],
+          "End-to-End Testing": ["Cypress", "Puppeteer"],
+          "Component Testing": ["React Testing Library", "Storybook"],
+          "CI/CD": ["GitHub Actions", "Jenkins", "CircleCI"],
+          "Containerization & Orchestration": ["Docker", "Kubernetes"],
+          "RESTful APIs": ["Axios", "Fetch API", "Postman"],
+          "GraphQL Clients": ["Apollo Client", "Relay"],
+          "Authentication": ["OAuth", "JWT", "Firebase Authentication", "Auth0"],
+          "CMS Platforms": [ "Sanity.io", "Contentful"],
+          "Performance Optimization": ["Lighthouse", "Webpack Bundle Analyzer", "PWA"],
+          "Monitoring & Error Tracking": ["Sentry", "LogRocket", "Datadog"],
+          "Version Control": ["Git", "GitHub", "GitLab", "Bitbucket"],
+          "Code Formatters & Linters": ["ESLint", "Prettier", "Husky", "Lint-Staged"]
       }      
     }
 
